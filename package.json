@@ -1,7 +1,7 @@
 {
   "name": "emblem",
   "description": "Templating language targeting Handlebars with default Ember.js conventions",
-  "version": "0.12.1-ab-v0.0.3",
+  "version": "0.12.1-ab-v0.0.4",
   "homepage": "http://www.emblemjs.com/",
   "keywords": [
     "ember",
@@ -49,7 +49,7 @@
     "rsvp": "^4.8.4",
     "testem": "^2.14.0"
   },
-  "main": "dist/cjs/emblem.js",
+  "main": "build/cjs/emblem.js",
   "bin": {
     "emblem": "bin/emblem"
   },
